@@ -1,5 +1,5 @@
-const targetDate = new Date("2025-01-25T00:00:00").getTime();
-const unlockDateTime = new Date("2025-01-25T00:00:00").getTime(); // Change to your desired date and time
+const targetDate = new Date("2025-02-05T00:00:00").getTime();
+const unlockDateTime = new Date("2025-02-05T00:00:00").getTime(); // Change to your desired date and time
 
 // Function to update the countdown and enable the button
 
